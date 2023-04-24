@@ -1,2 +1,2 @@
-# heap-lecture
+# Heap
 Heap Lecture with Heap Sort
